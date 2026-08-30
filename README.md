@@ -16,15 +16,6 @@ Fonte dos dados: [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-in
 
 ![Modelo Físico do Banco](/modelo_er.png)
 
-## Estrutura
-
-```
-├── sql/
-│   └── acidentes_prf.sql   # Script completo: funções, tabelas, views, benchmark
-└── docs/
-    └── modelo_er.png       # Diagrama do modelo físico (gerado no pgModeler/DBeaver)
-```
-
 ## Como executar
 
 Pré-requisitos: PostgreSQL com a extensão `pgcrypto` disponível, e o CSV de acidentes da PRF baixado localmente.
