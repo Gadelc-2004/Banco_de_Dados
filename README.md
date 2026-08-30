@@ -14,7 +14,7 @@ Fonte dos dados: [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-in
 
 ## Modelo entidade-relacionamento
 
-![Modelo Físico do Banco](/ProjetoFísico (1).png)
+![Modelo Físico do Banco](docs/modelo_er.png)
 
 ## Estrutura
 
